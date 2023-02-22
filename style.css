@@ -92,5 +92,9 @@
         background-size: cover;
         align-items: center;
     }
+    #coworking img {
+        width: 87%;
+        height: 40vh;
+    }
 
 }
